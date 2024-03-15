@@ -12,12 +12,24 @@ Benifits of Dialogflow Bot
 --------------------------------
 1.It's already come with Ml features
 =>So its not only for help or guide that bot also learn from you and give best experience.
+
+
 2.User Friendly UI
+
+
 3.Easy to Integration
 => U can integrate with telegram, Whatsapp, Website, App etc.
+
+
+
 4.Easy to upgrade
+
+
 5.Inbuilt Pre Trained Agent 
+
 6.Easy To Import Export Data 
+
+
 --------------------------------
 
 Note:-This is complete free of cost when any user create new account and they get 300$ to used in DialogFlow feature.
